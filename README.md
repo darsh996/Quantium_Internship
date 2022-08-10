@@ -4,8 +4,11 @@ Quantium Data Analytics Virtual Experience Program
 This repository contains my solution for Quantium Data Analytics Virtual Experience Program.
 https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=DsEXFixxovqkRxR2u
 
+
+
 Task 1:
 Data Preparation and Customer Analytics
+
 
 
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
@@ -19,6 +22,9 @@ Conduct analysis on your client's transaction dataset and identify customer purc
 4.Deep dive into customer segments – define your recommendation from your insights, determine which segments we should be targeting, if packet sizes are relative and form an overall conclusion based on your analysis
 
 
+
+
+
 Task 2:
 EXPERIMENTATION AND UPLIFTING TESING
 
@@ -30,4 +36,4 @@ Extend your analysis from Task 1 to help you identify benchmark stores that allo
 2. Assessment of the trial – this one should give you some interesting insights into each of the stores, check each trial store individually in comparison with the control store to get a clear view of its overall performance. We want to know if the trial stores were successful or not.
 
 3. Collate findings – summarise your findings for each store and provide an recommendation that we can share with Julia outlining the impact on sales during the trial period.
-Remember when working with a client visualisations are key to helping them understand the data. Be sure to save all your visualisations so we can use them later in our report. We are presenting to our client in 3 weeks so if you could submit your analysis by mid next week that will give us great amount of time to discuss findings and pull together the report
+Remember when working with a client visualisations are key to helping them understand the data. Be sure to save all your visualisations so we can use them later in our report. We are presenting to our client in 3 weeks so if you could submit your analysis by mid next week that will give us great amount of time to discuss findings and pull together the report.
